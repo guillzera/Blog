@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\Balta\\Blog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22DF75D2-F963-4B3F-A7B6-2B0BF0907312}|Blog.csproj|c:\\c#\\balta\\blog\\data\\blogdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DF75D2-F963-4B3F-A7B6-2B0BF0907312}|Blog.csproj|solutionrelative:data\\blogdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogDataContext.cs",
+              "DocumentMoniker": "C:\\C#\\Balta\\Blog\\Data\\BlogDataContext.cs",
+              "RelativeDocumentMoniker": "Data\\BlogDataContext.cs",
+              "ToolTip": "C:\\C#\\Balta\\Blog\\Data\\BlogDataContext.cs",
+              "RelativeToolTip": "Data\\BlogDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:25:16.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
