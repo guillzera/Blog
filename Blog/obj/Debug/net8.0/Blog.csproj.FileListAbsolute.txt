@@ -1,5 +1,6 @@
 C:\C#\Balta\Blog\bin\Debug\net8.0\appsettings.Development.json
 C:\C#\Balta\Blog\bin\Debug\net8.0\appsettings.json
+C:\C#\Balta\Blog\bin\Debug\net8.0\Blog.staticwebassets.endpoints.json
 C:\C#\Balta\Blog\bin\Debug\net8.0\Blog.exe
 C:\C#\Balta\Blog\bin\Debug\net8.0\Blog.deps.json
 C:\C#\Balta\Blog\bin\Debug\net8.0\Blog.runtimeconfig.json
@@ -147,14 +148,18 @@ C:\C#\Balta\Blog\obj\Debug\net8.0\Blog.AssemblyInfoInputs.cache
 C:\C#\Balta\Blog\obj\Debug\net8.0\Blog.AssemblyInfo.cs
 C:\C#\Balta\Blog\obj\Debug\net8.0\Blog.csproj.CoreCompileInputs.cache
 C:\C#\Balta\Blog\obj\Debug\net8.0\Blog.MvcApplicationPartsAssemblyInfo.cache
+C:\C#\Balta\Blog\obj\Debug\net8.0\Blog.sourcelink.json
+C:\C#\Balta\Blog\obj\Debug\net8.0\scopedcss\bundle\Blog.styles.css
 C:\C#\Balta\Blog\obj\Debug\net8.0\staticwebassets.build.json
 C:\C#\Balta\Blog\obj\Debug\net8.0\staticwebassets.development.json
+C:\C#\Balta\Blog\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\C#\Balta\Blog\obj\Debug\net8.0\staticwebassets\msbuild.Blog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\C#\Balta\Blog\obj\Debug\net8.0\staticwebassets\msbuild.Blog.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\C#\Balta\Blog\obj\Debug\net8.0\staticwebassets\msbuild.build.Blog.props
 C:\C#\Balta\Blog\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Blog.props
 C:\C#\Balta\Blog\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Blog.props
 C:\C#\Balta\Blog\obj\Debug\net8.0\staticwebassets.pack.json
-C:\C#\Balta\Blog\obj\Debug\net8.0\scopedcss\bundle\Blog.styles.css
+C:\C#\Balta\Blog\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\C#\Balta\Blog\obj\Debug\net8.0\Blog.csproj.Up2Date
 C:\C#\Balta\Blog\obj\Debug\net8.0\Blog.dll
 C:\C#\Balta\Blog\obj\Debug\net8.0\refint\Blog.dll
